@@ -4,7 +4,7 @@ A **React Theme Switcher** project demonstrating the **Context API** to manage g
 Built with **React**, **Tailwind CSS**, and **Vite**.
 
 🚀 Live Demo  
- [View Live Project Here](https://your-live-demo-link.netlify.app/)  
+ [View Live Project Here](https://theme-switcher-ten-gray.vercel.app/)  
 
 📘 About the Project
 
@@ -67,4 +67,6 @@ Avoiding prop drilling in medium/large React apps
 Creating reusable components (Card, ThemeBtn)
 
 📷 Preview
+<img width="764" height="575" alt="Screenshot 2025-10-26 225035" src="https://github.com/user-attachments/assets/cd2ab916-d71c-48e3-b7f1-0789a0792d9c" />
+
 
